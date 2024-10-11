@@ -86,6 +86,8 @@ def main():
 
     while True:
         menu = """
+        BEM VINDO AO SISTEMA BANCARIO JK-DIO
+        
         ================ MENU ================
         [1] Depositar
         [2] Sacar
